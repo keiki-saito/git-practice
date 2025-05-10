@@ -1,4 +1,4 @@
 # git-practice
 
 ローカルリポで変更
-Github上で更新2回目
+conflict-remote 上で更新（コンフリクト発生）

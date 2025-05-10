@@ -1,4 +1,4 @@
 # git-practice
 
 ローカルリポで変更
-conflict ブランチで変更
+Github上で更新

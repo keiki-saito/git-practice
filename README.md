@@ -1,7 +1,6 @@
 # git-practice
 
-ローカルリポで変更
-conflict-remote 上で更新（コンフリクト発生）
+自分のリポジトリで更新
 aaaaaaaaa
 bbbbbbbbb
 aaaaaaaaa

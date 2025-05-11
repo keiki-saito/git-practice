@@ -1,7 +1,7 @@
 # git-practice
 
 ローカルリポで変更
-conflict-remote 上で更新（コンフリクト発生）
+rebase-practice ブランチで更新
 aaaaaaaaa
 bbbbbbbbb
 aaaaaaaaa

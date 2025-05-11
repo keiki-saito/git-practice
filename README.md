@@ -2,6 +2,7 @@
 
 ローカルリポで変更
 rebase-practice ブランチで更新(rebase コンフリクト用2)
+rebase用
 aaaaaaaaa
 bbbbbbbbb
 aaaaaaaaa

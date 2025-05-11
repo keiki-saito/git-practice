@@ -1,7 +1,7 @@
 # git-practice
 
 ローカルリポで変更
-rebase-practice ブランチで更新
+main ブランチで更新(rebase コンフリクト用)
 aaaaaaaaa
 bbbbbbbbb
 aaaaaaaaa

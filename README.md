@@ -1,22 +1,6 @@
 # git-practice
 
 ローカルリポで変更
-rebase-practice ブランチで更新(rebase コンフリクト用2)
-rebase用
-stash練習
-aaaaaaaaa
-bbbbbbbbb
-aaaaaaaaa
-bbbbbbbbb
-aaaaaaaaa
-bbbbbbbbb
-aaaaaaaaa
-bbbbbbbbb
-aaaaaaaaa
-bbbbbbbbb
-aaaaaaaaa
-bbbbbbbbb
-aaaaaaaaa
-bbbbbbbbb
-aaaaaaaaa
-bbbbbbbbb
+rebase-practice ブランチで更新(rebase コンフリクト用 2)
+rebase 用
+stash 練習
